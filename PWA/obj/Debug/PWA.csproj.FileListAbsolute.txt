@@ -1,0 +1,11 @@
+D:\ASP\Asincrona\new\PWA\PWA\bin\Debug\PWA.exe.config
+D:\ASP\Asincrona\new\PWA\PWA\bin\Debug\PWA.exe
+D:\ASP\Asincrona\new\PWA\PWA\bin\Debug\PWA.pdb
+D:\ASP\Asincrona\new\PWA\PWA\obj\Debug\PWA.csproj.AssemblyReference.cache
+D:\ASP\Asincrona\new\PWA\PWA\obj\Debug\PWA.csproj.SuggestedBindingRedirects.cache
+D:\ASP\Asincrona\new\PWA\PWA\obj\Debug\PWA.Form1.resources
+D:\ASP\Asincrona\new\PWA\PWA\obj\Debug\PWA.Properties.Resources.resources
+D:\ASP\Asincrona\new\PWA\PWA\obj\Debug\PWA.csproj.GenerateResource.cache
+D:\ASP\Asincrona\new\PWA\PWA\obj\Debug\PWA.csproj.CoreCompileInputs.cache
+D:\ASP\Asincrona\new\PWA\PWA\obj\Debug\PWA.exe
+D:\ASP\Asincrona\new\PWA\PWA\obj\Debug\PWA.pdb
